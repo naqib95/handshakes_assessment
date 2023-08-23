@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "jest": "^29.6.2",
+    "jest-html-reporter": "^3.10.1",
+    "ts-jest": "^29.1.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/jest": "^29.5.3",
+    "axios": "^1.4.0"
+  }
+}
